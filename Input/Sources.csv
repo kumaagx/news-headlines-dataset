@@ -1,47 +1,63 @@
 ID,Source,Feed,Link
-1,NYT,Homepage USA,https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
-2,NYT,Most Emailed,https://rss.nytimes.com/services/xml/rss/nyt/MostEmailed.xml
-3,NYT,Most Shared,https://rss.nytimes.com/services/xml/rss/nyt/MostShared.xml
-4,NYT,Most Viewed,https://rss.nytimes.com/services/xml/rss/nyt/MostViewed.xml
-5,NYT,World,https://rss.nytimes.com/services/xml/rss/nyt/World.xml
-6,NYT,USA,https://rss.nytimes.com/services/xml/rss/nyt/US.xml
-7,NYT,Politics,https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml
-8,NYT,Business,https://rss.nytimes.com/services/xml/rss/nyt/Business.xml
-9,NYT,Technology,https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
-10,NYT,Sports,https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml
-11,NYT,Science,https://rss.nytimes.com/services/xml/rss/nyt/Science.xml
-12,NYT,Climate,https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml
-13,NYT,Economy,https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml
-14,NYT,Real Estate,https://rss.nytimes.com/services/xml/rss/nyt/RealEstate.xml
-15,BuzzFeed,Homepage,https://www.buzzfeed.com/index.xml
-16,BuzzFeed,Raw Feed,https://www.buzzfeed.com/raw.xml
-17,BuzzFeed,Quiz,https://www.buzzfeed.com/quiz.xml
-18,BuzzFeed,LOL,https://www.buzzfeed.com/lol.xml
-19,BuzzFeed,WTF,https://www.buzzfeed.com/wtf.xml
-20,BuzzFeed,Fail,https://www.buzzfeed.com/fail.xml
-21,BuzzFeed,Win,https://www.buzzfeed.com/win.xml
-22,BuzzFeed,OMG,https://www.buzzfeed.com/omg.xml
-23,TOI,Top Stories,https://timesofindia.indiatimes.com/rssfeedstopstories.cms
-24,TOI,Recent Stories,http://timesofindia.indiatimes.com/rssfeeds/1221656.cms
-25,TOI,India,http://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms
-26,TOI,World,http://timesofindia.indiatimes.com/rssfeeds/296589292.cms
-27,TOI,NRI,http://timesofindia.indiatimes.com/rssfeeds/7098551.cms
-28,TOI,Business,http://timesofindia.indiatimes.com/rssfeeds/1898055.cms
-29,TOI,US,https://timesofindia.indiatimes.com/rssfeeds_us/72258322.cms
-30,TOI,Cricket,http://timesofindia.indiatimes.com/rssfeeds/54829575.cms
-31,TOI,Sports,http://timesofindia.indiatimes.com/rssfeeds/4719148.cms
-32,TOI,Science,http://timesofindia.indiatimes.com/rssfeeds/-2128672765.cms
-33,TOI,Tech,http://timesofindia.indiatimes.com/rssfeeds/66949542.cms
-34,TOI,Entertainment,http://timesofindia.indiatimes.com/rssfeeds/1081479906.cms
-35,TOI,Life And Style,http://timesofindia.indiatimes.com/rssfeeds/2886704.cms
-36,TOI,Auto,https://timesofindia.indiatimes.com/rssfeeds/74317216.cms
-37,BBC,Top Stories,http://feeds.bbci.co.uk/news/rss.xml
-38,BBC,World,http://feeds.bbci.co.uk/news/world/rss.xml
-39,BBC,UK,http://feeds.bbci.co.uk/news/uk/rss.xml
-40,BBC,Business,http://feeds.bbci.co.uk/news/business/rss.xml
-41,BBC,Politics,http://feeds.bbci.co.uk/news/politics/rss.xml
-42,BBC,Health,http://feeds.bbci.co.uk/news/health/rss.xml
-43,BBC,Education and Family,http://feeds.bbci.co.uk/news/education/rss.xml
-44,BBC,Science and Environment,http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
-45,BBC,Technology,http://feeds.bbci.co.uk/news/technology/rss.xml
-46,BBC,Entertainment and Arts,http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+1,NYT,NYTimes.com Home Page (U.S.),https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+2,NYT,News > World > World,https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+3,NYT,News > U.S. > U.S.,https://rss.nytimes.com/services/xml/rss/nyt/US.xml
+4,NYT,News > U.S. > Education,https://rss.nytimes.com/services/xml/rss/nyt/Education.xml
+5,NYT,News > U.S. > Politics,https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml
+6,NYT,News > Business > Business,https://rss.nytimes.com/services/xml/rss/nyt/Business.xml
+7,NYT,News > Technology > Technology,https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+8,NYT,News > Sports > Sports,https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml
+9,NYT,News > Science > Science,https://rss.nytimes.com/services/xml/rss/nyt/Science.xml
+10,NYT,News > Health > Health,https://rss.nytimes.com/services/xml/rss/nyt/Health.xml
+11,NYT,Marketplace > Jobs,https://rss.nytimes.com/services/xml/rss/nyt/Jobs.xml
+12,NYT,Marketplace > Real Estate,https://rss.nytimes.com/services/xml/rss/nyt/RealEstate.xml
+13,NYT,Marketplace > Autos,https://rss.nytimes.com/services/xml/rss/nyt/Automobiles.xml
+14,NYT,Most Emailed,https://rss.nytimes.com/services/xml/rss/nyt/MostEmailed.xml
+15,NYT,Most Shared,https://rss.nytimes.com/services/xml/rss/nyt/MostShared.xml
+16,NYT,Most Viewed,https://rss.nytimes.com/services/xml/rss/nyt/MostViewed.xml
+15,BuzzFeed,Main > Homepage,https://www.buzzfeed.com/index.xml
+16,BuzzFeed,Main > Raw Feed,https://www.buzzfeed.com/raw.xml
+,TOI,Top Stories,https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+,TOI,Recent Stories,http://timesofindia.indiatimes.com/rssfeeds/1221656.cms
+,TOI,India,http://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms
+,TOI,World,http://timesofindia.indiatimes.com/rssfeeds/296589292.cms
+,TOI,NRI,http://timesofindia.indiatimes.com/rssfeeds/7098551.cms
+,TOI,Business,http://timesofindia.indiatimes.com/rssfeeds/1898055.cms
+,TOI,US,https://timesofindia.indiatimes.com/rssfeeds_us/72258322.cms
+,TOI,Cricket,http://timesofindia.indiatimes.com/rssfeeds/54829575.cms
+,TOI,Sports,http://timesofindia.indiatimes.com/rssfeeds/4719148.cms
+,TOI,Science,http://timesofindia.indiatimes.com/rssfeeds/-2128672765.cms
+,TOI,Tech,http://timesofindia.indiatimes.com/rssfeeds/66949542.cms
+,TOI,Entertainment,http://timesofindia.indiatimes.com/rssfeeds/1081479906.cms
+,TOI,Life And Style,http://timesofindia.indiatimes.com/rssfeeds/2886704.cms
+,TOI,Auto,https://timesofindia.indiatimes.com/rssfeeds/74317216.cms
+,BBC,Top Stories,http://feeds.bbci.co.uk/news/rss.xml
+,BBC,World,http://feeds.bbci.co.uk/news/world/rss.xml
+,BBC,UK,http://feeds.bbci.co.uk/news/uk/rss.xml
+,BBC,Business,http://feeds.bbci.co.uk/news/business/rss.xml
+,BBC,Politics,http://feeds.bbci.co.uk/news/politics/rss.xml
+,BBC,Health,http://feeds.bbci.co.uk/news/health/rss.xml
+,BBC,Education and Family,http://feeds.bbci.co.uk/news/education/rss.xml
+,BBC,Science and Environment,http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+,BBC,Technology,http://feeds.bbci.co.uk/news/technology/rss.xml
+,BBC,Entertainment and Arts,http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+,NPR,,https://www.reddit.com/r/NPR/comments/16t5102/npr_rss_news_feeds/?rdt=45984
+,Fox News,,https://www.foxnews.com/story/foxnews-com-rss-feeds
+,CNN Money,,https://money.cnn.com/services/rss/
+,BBC,,https://www.bbc.co.uk/news/10628494
+,Reuters,,https://www.reutersagency.com/en/reutersbest/reuters-best-rss-feeds/
+,Washington Post,,https://www.washingtonpost.com/discussions/2018/10/12/washington-post-rss-feeds/
+,The Guardian,,
+,ABC News,,
+,Time,,
+,The Atlantic,,
+,Slate,,
+,Al Jazeera,,
+,The New Yorker,,
+,Vox,,
+,Politico,,
+,The Verge,,https://www.theverge.com/2012/1/25/2732963/verge-rss-feeds
+,Wired,,https://www.wired.com/about/rss-feeds/
+,TechCrunch,,https://techcrunch.com/rss-terms-of-use/
+,Economic Times,,
+,More,,https://feedly.com/i/top/news-blogs
